@@ -9,5 +9,5 @@ This asset is for;
 * Blue Prism users who want to get the latest asset information from Blue Prism DX.
 
 ## Demo
-Youtubeにデモ動画を掲載しています。
+Youtubeにデモ動画を掲載しています。  
 [![](https://img.youtube.com/vi/P0gGDobL56c/0.jpg)](https://youtu.be/P0gGDobL56c)
