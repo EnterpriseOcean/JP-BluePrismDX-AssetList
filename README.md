@@ -10,5 +10,5 @@ This asset is for;
 
 ## Demo
 Youtubeにデモ動画を掲載しています。  
-BluePrismDXアセット一覧作成プロセス
+BluePrismDXアセット一覧作成プロセス  
 [![](https://img.youtube.com/vi/P0gGDobL56c/0.jpg)](https://youtu.be/P0gGDobL56c)  
